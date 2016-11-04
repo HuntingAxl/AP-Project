@@ -1,4 +1,4 @@
 interface Parser{
-	void readFile();
-	void writeFile();
+	public void readFile();
+	public void writeFile();
 }

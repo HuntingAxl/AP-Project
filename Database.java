@@ -1,4 +1,4 @@
 interface Database{
-	private getPublications();
-	private getSecondaryNames();
+	private String [] getPublications();
+	private String [] getSecondaryNames();
 }

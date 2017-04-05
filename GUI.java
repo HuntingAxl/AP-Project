@@ -1,9 +1,9 @@
-interface GUI{
-	public void createButton();
-	public void createPanel();
-	public void createFrame();
-	public void exitSoftware();
-	public void exitFrame();
-	public void createLabel();
-	public void start();
+// @Author : Nishant Rana 2015152
+public class GUI{
+    public static void main(String[] args) {
+
+        dblp_gui gui=new dblp_gui();
+        gui.createFrame();
+    }
+
 }

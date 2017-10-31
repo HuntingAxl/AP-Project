@@ -13,7 +13,7 @@ The Frontend(GUI) and the backend was made using java only.
 The queries were of the following type :-
 
 Query 1:- 
-  Search for an author/title.
+  Search for an author or title.
   Filters for data:- Since Year, Between Years
   Sort the data:- Using date or by relevance.
 
